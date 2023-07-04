@@ -1,0 +1,15 @@
+D:\APP_TEST\test_app\test_app\bin\Debug\net6.0\test_app.exe
+D:\APP_TEST\test_app\test_app\bin\Debug\net6.0\test_app.deps.json
+D:\APP_TEST\test_app\test_app\bin\Debug\net6.0\test_app.runtimeconfig.json
+D:\APP_TEST\test_app\test_app\bin\Debug\net6.0\test_app.dll
+D:\APP_TEST\test_app\test_app\bin\Debug\net6.0\ref\test_app.dll
+D:\APP_TEST\test_app\test_app\bin\Debug\net6.0\test_app.pdb
+D:\APP_TEST\test_app\test_app\obj\Debug\net6.0\test_app.csproj.AssemblyReference.cache
+D:\APP_TEST\test_app\test_app\obj\Debug\net6.0\test_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\APP_TEST\test_app\test_app\obj\Debug\net6.0\test_app.AssemblyInfoInputs.cache
+D:\APP_TEST\test_app\test_app\obj\Debug\net6.0\test_app.AssemblyInfo.cs
+D:\APP_TEST\test_app\test_app\obj\Debug\net6.0\test_app.csproj.CoreCompileInputs.cache
+D:\APP_TEST\test_app\test_app\obj\Debug\net6.0\test_app.dll
+D:\APP_TEST\test_app\test_app\obj\Debug\net6.0\ref\test_app.dll
+D:\APP_TEST\test_app\test_app\obj\Debug\net6.0\test_app.pdb
+D:\APP_TEST\test_app\test_app\obj\Debug\net6.0\test_app.genruntimeconfig.cache
